@@ -19,18 +19,33 @@
 </p>
 -->
 
-## What I currently do
-
-* 🔭 I'm currently working on improving some Ansible playbooks.
-* 🌱 I'm currently learning `golang`and `Aerospike`.
-* 👯 I'm looking to collaborate on some exciting projects.
-* 💬 We could talk for hours on any tech-related topics.
+<h2 align="center">
+  What I currently do
+</h2>
+<p align="center">
+  I'm currently working on improving some Ansible playbooks.
+  <br/>
+  I'm currently learning <code>golang</code> and <code>Aerospike</code>.
+  <br/>
+  I'm looking to collaborate on some exciting projects.
+  <br/>
+  We could talk for hours on any tech-related topics
+</p>
+<br/>
   
-## Where to find me
+<h2 align="center">
+  Where to find me
+</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kishorv06">
+    <img src="https://simpleicons.org/icons/linkedin.svg" width="48"/>
+  </a>
+</p>
+<br/>
 
-[<img src="https://simpleicons.org/icons/linkedin.svg" width="32"/>](https://www.linkedin.com/in/kishorv06)
-
-## My GitHub Stats
+<h2 align="center">
+  My GitHub Stats
+</h2>
 <p align="center">
   <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api?username=kishorv06&show_icons=true" />
   <br/>
