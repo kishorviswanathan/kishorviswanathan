@@ -35,5 +35,5 @@
   <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api?username=kishorv06&show_icons=true" />
   <br/>
   <br/>
-  <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorv06&layout=compact&langs_count=8" />
+  <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorv06&layout=compact&langs_count=6" />
 </p>
