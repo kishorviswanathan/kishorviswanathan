@@ -19,6 +19,7 @@
 </p>
 -->
 
+<!--
 <h2 align="center">
   What I currently do
 </h2>
@@ -32,6 +33,7 @@
   We could talk for hours on any tech-related topics
 </p>
 <br/>
+-->
   
 <h2 align="center">
   Where to find me
