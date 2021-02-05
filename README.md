@@ -10,11 +10,14 @@
 <p align="center">I'm a DevOps Engineer from India.</p>
 <p align="center">I am also a Coder, Hacker, Linux Enthusiast and so much more.</p>
 <br/>
+<!--
+<p align="center">Did I helped you somehow ?</p>
 <p align = "center">
    <a href="https://www.buymeacoffee.com/kishorv06">
      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="kishorv06" />
   </a>
 </p>
+-->
 
 ## What I currently do
 
