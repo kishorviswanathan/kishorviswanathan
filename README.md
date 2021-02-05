@@ -8,16 +8,10 @@
 </p>
 
 <p align="center">I'm a DevOps Engineer from India.</p>
-<p align="center">I am also a Coder, Hacker, Linux Enthusiast and so much more.</p>
-<br/>
-<!--
-<p align="center">Did I helped you somehow ?</p>
-<p align = "center">
-   <a href="https://www.buymeacoffee.com/kishorv06">
-     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="kishorv06" />
-  </a>
+<p align="center">
+  Want to find more about me ? Checkout my <a href="https://kishorv06.github.io">profile</a>
 </p>
--->
+<br/>
 
 <!--
 <h2 align="center">
@@ -42,6 +36,19 @@
   <a href="https://www.linkedin.com/in/kishorv06">
     <img src="https://simpleicons.org/icons/linkedin.svg" width="48"/>
   </a>
+  &nbsp;
+  <a href="https://telegram.me/kishorv06">
+    <img src="https://simpleicons.org/icons/telegram.svg" width="48"/>
+  </a>
+  &nbsp;
+  <a href="https://www.buymeacoffee.com/kishorv06">
+    <img src="https://simpleicons.org/icons/buymeacoffee.svg" width="48"/>
+  </a>
+  &nbsp;
+  <a href="https://www.gitlab.com/kishorv06">
+    <img src="https://simpleicons.org/icons/gitlab.svg" width="48"/>
+  </a>
+  
 </p>
 <br/>
 
