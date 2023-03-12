@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif"/>
+  <img align="center" width="30%" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif"/>
 </p>
 
 <br/>
