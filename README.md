@@ -1,25 +1,17 @@
-<h1 align="center">
-  Hi, I'm Kishor
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-</h1>
+![Cover Picture](./cover.png)
+# Hey, I'm Kishor !
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kishorv06.kishorv06)](https://github.com/kishorv06)
+[![GitHub followers](https://img.shields.io/github/followers/kishorv06.svg?style=social&label=Follow)](https://github.com/kishorv06?tab=followers)
 
-<p align="center">
-  <img align="center" width="30%" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif"/>
-</p>
+An experienced SRE and Linux enthusiast from India with a passion for building and maintaining reliable, scalable, and secure systems. Proficient in cloud platforms, Linux administration, containerization, CI/CD, monitoring, and incident response. A strong advocate for Linux and open-source software.
 
-<br/>
-<p align="center">I'm a DevOps Engineer from India.</p>
-<p align="center">
-  Want to find more about me ? Checkout my <a href="https://kishorv06.github.io">profile</a>
-</p>
-<br/>
+## My Current Adventures
+* Deploying and managing infrastructure on Google Cloud Platform and GKE.
+* Writting extensions for Gnome that makes my life easier.
+* Fixing and tweaking things on my laptop running Manjaro.
 
-<h2 align="center">
-  My GitHub Stats
-</h2>
-<p align="center">
-  <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api?username=kishorv06&show_icons=true" />
-  <br/>
-  <br/>
-  <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorv06&layout=compact&langs_count=6" />
-</p>
+## Where to find me
+* Website : [kishorv06.github.io](https://kishorv06.github.io/)  
+(It looks and feels like a terminal 😉)
+* Linkedin : [@kishorv06](https://www.linkedin.com/in/kishorv06)
+* Telegram : [@kishorv06](https://t.me/kishorv06)
