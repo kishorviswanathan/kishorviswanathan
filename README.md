@@ -8,7 +8,7 @@ An experienced SRE and Linux enthusiast from India with a passion for building a
 ## My Current Adventures
 * Deploying and managing infrastructure on Google Cloud Platform and GKE.
 * Writting extensions for Gnome that makes my life easier.
-* Fixing and tweaking things on my laptop running Manjaro.
+* Developing Kubernetes operators to simplify my day to day tasks.
 
 ## Where to find me
 * Website : [kishorviswanathan.github.io](https://kishorviswanathan.github.io/)  
